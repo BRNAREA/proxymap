@@ -1,0 +1,4 @@
+# Please dont touch HERE , you fvcking dumb
+[submodule "lib/proxy-scraper"]
+	path = lib/proxy-scraper
+	url = https://github.com/BRNAREA/proxy-scraper.git

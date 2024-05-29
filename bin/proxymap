@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Load global definitions
+source "$(realpath src/core/global.sh)" "."
+source "$(realpath src/core/setup.sh)"
+source "$(realpath src/utils/display_menu.sh)"
+
+__init__() {
+  setup
+  display_menu
+}
+
+__init__

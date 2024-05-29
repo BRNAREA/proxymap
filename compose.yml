@@ -1,0 +1,11 @@
+services:
+  proxy-scraper:
+    build: .
+    image: proxymap:1.0-r1
+    container_name: proxy-scraper
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    tty: true
+
