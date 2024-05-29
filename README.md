@@ -44,8 +44,9 @@ To get an overview of proxymap available options, switches and/or basic ideas on
 
 ```
 Support my work:
-BTC: bc1qr3mle4uyzdg34le0jhq5fu2sjzsnqhh5v6wzad
-ETH: 0x6581e7e54F35F337365C8686D2e6Ea04d3Aa22f5
+BTC: bc1qadf67jzpzshtxm52zd5n6vujtz52dwgvyzueur
+ETH: 0x844624d7dA01F83FcC428EAC7e628FE805667a07
+MXR: 44B9kcpMgbhBDizQSmi4tBWQWYeLVPusgK6Y6PDyUbzQEAGmC3h3m2xPKUcp2tKw4HBqQ9GSLzTdWS4n4N1eGWf7V9EDJhn
 ```
 
 ## Links
