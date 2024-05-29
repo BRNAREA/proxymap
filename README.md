@@ -1,7 +1,6 @@
 <p align="left">
   <img alt="ProxymapTool" src="" height="120" />
   <p align="left">
-    <a href="https://github.com/N07F0UND/proxymap/actions/workflows/builds.yml"><img alt="Builds Tests" src="https://github.com/N07F0UND/proxymap/actions/workflows/builds.yml/badge.svg"></a>
     <a href="http://www.python.org/download/"><img alt="Python 3.x" src="https://img.shields.io/badge/python-3.x-yellow.svg"></a>
     <a href="https://github.com/N07F0UND/proxymap/blob/master/LICENSE.txt"><img alt="GNU License" src="https://img.shields.io/badge/license-GPLv3-red.svg"></a>
     <!-- <a href="https://github.com/N07F0UND/proxymap/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/commixproject/commix.svg?colorB=ff0000"></a> -->
@@ -10,7 +9,7 @@
 
 **Proxymap**  is an open source penetration testing tool, written by me**[Garyhost](https://github.com/N07F0UND)**, that automates the proxing scrapping and checking of **[Proxies](what is an proxy ?)** .
 
-![Screenshot]()
+![Screenshot](https://imgur.com/HJH7CVC.png)
 You can visit the [collection of screenshots](https://github.com/N07F0UND/proxymap/wiki/Screenshots) demonstrating some of the features on the wiki.
 
 ## Installation
@@ -54,4 +53,3 @@ ETH: 0x6581e7e54F35F337365C8686D2e6Ea04d3Aa22f5
 
 * User's manual: https://github.com/N0TF0UND/proxymap/wiki
 * Issues tracker: https://github.com/N0TF0UND/proxymap/issues
-
