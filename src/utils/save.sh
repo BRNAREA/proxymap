@@ -4,7 +4,7 @@ source "$(realpath ./src/core/global.sh)" "."
 source "$(realpath ./src/core/message.sh)"
 
 save () {
-  read -r -p "Create a proxychains4 config? (y/n) " choice
+  read -r -p "Create a proxychains4 config? (Y/n) " choice
   if [[ "$choice" =~ ^[Yy]?$|^$ ]]; then
     message "${COLORS['green']}" " [+] Creating proxychains4.conf...\n"
     local temp_file
